@@ -1,0 +1,106 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-rongcloud-im@~2.3.7",
+        "scope": null,
+        "escapedName": "cordova-plugin-rongcloud-im",
+        "name": "cordova-plugin-rongcloud-im",
+        "rawSpec": "~2.3.7",
+        "spec": ">=2.3.7 <2.4.0",
+        "type": "range"
+      },
+      "G:\\GIT\\Hushitong\\node_modules"
+    ]
+  ],
+  "_cnpm_publish_time": 1480557030210,
+  "_from": "cordova-plugin-rongcloud-im@>=2.3.7 <2.4.0",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-rongcloud-im@2.3.10",
+  "_inCache": true,
+  "_location": "/cordova-plugin-rongcloud-im",
+  "_nodeVersion": "4.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-rongcloud-im-2.3.10.tgz_1480557029852_0.6988828557077795"
+  },
+  "_npmUser": {
+    "name": "eva2015",
+    "email": "peanutgirl2008@163.com"
+  },
+  "_npmVersion": "2.15.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-rongcloud-im@~2.3.7",
+    "scope": null,
+    "escapedName": "cordova-plugin-rongcloud-im",
+    "name": "cordova-plugin-rongcloud-im",
+    "rawSpec": "~2.3.7",
+    "spec": ">=2.3.7 <2.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-rongcloud-im/download/cordova-plugin-rongcloud-im-2.3.10.tgz",
+  "_shasum": "6f5a65031dceea6129983fce54bd4300f9228961",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-rongcloud-im@~2.3.7",
+  "_where": "G:\\GIT\\Hushitong\\node_modules",
+  "author": {
+    "name": "RongCloud"
+  },
+  "bugs": {
+    "url": "https://github.com/rongcloud/cordova-plugin-rongcloud-im/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-rongcloud-im",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova RongCloud IMLib Plugin",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6f5a65031dceea6129983fce54bd4300f9228961",
+    "size": 14016982,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-plugin-rongcloud-im/download/cordova-plugin-rongcloud-im-2.3.10.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0"
+    }
+  ],
+  "gitHead": "bde34090300c7a4c3c0a775f047663f478afb986",
+  "homepage": "https://github.com/rongcloud/cordova-plugin-rongcloud-im#readme",
+  "keywords": [
+    "RongCloud",
+    "IM",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "eva2015",
+      "email": "peanutgirl2008@163.com"
+    }
+  ],
+  "name": "cordova-plugin-rongcloud-im",
+  "optionalDependencies": {},
+  "publish_time": 1480557030210,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rongcloud/cordova-plugin-rongcloud-im.git"
+  },
+  "scripts": {},
+  "version": "2.3.10"
+}
